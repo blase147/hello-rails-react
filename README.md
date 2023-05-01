@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 
 ```
   git clone git@github.com:blase147/hello-rails-react.git
-  cd Hello-Rails-React
+  cd hello-rails-react
 ```
 
 ### Install
