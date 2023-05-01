@@ -82,7 +82,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-  git clone git@github.com:KanzaTahreem/Hello-Rails-React.git
+  git clone git@github.com:blase147/hello-rails-react.git
   cd Hello-Rails-React
 ```
 
@@ -152,7 +152,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/KanzaTahreem/Hello-Rails-React/issues).
+Feel free to check the [issues page](https://github.com/blase147/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
